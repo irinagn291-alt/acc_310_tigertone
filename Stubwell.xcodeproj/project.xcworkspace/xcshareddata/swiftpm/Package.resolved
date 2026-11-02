@@ -1,0 +1,14 @@
+{
+  "originHash" : "eaca3fe1201c9a68437b5354aba283eff44be359678989f64d674c0e1606f4a5",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/petarlovrojukic-a11y/Alamofire",
+      "state" : {
+        "revision" : "9799237b84cbd97f80a3ac9b69b30ba65139f752"
+      }
+    }
+  ],
+  "version" : 3
+}

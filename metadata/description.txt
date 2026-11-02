@@ -1,0 +1,11 @@
+Tigertone is a private shelf for readers who finish a book and want one chosen line to come back on that month and day.
+
+• Add a book on Shelf with Title, Author, Pages, and Start page
+• On Reading, set the Page, write a New line, Save line, and mark Read again
+• Close book, pick one line (File, then nail), then Close book so This line returns on this date
+• On home, when a line is Due, tap Nail this line; tap Lift this line to take it back down
+• Coming up lists Next, Later dates, and Nails
+• Settings offers Show introduction, Contact, Export, and Delete all
+• Lines stay on this device
+
+For readers who want one anniversary line from a finished book, not a store catalog or rating shelf.

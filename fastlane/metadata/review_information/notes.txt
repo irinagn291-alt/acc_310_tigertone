@@ -1,0 +1,15 @@
+The app does not request camera, photos, microphone, location, or tracking. No permission usage description is present in the build settings, and no system permission dialog is shown during use.
+
+There is no login, no in-app purchase, no user-generated content shared with others, no account deletion flow, and no App Tracking Transparency prompt.
+
+Tigertone is a private reading journal for people who finish books and want one chosen line to resurface on the same month and day. It is meant for personal use on this device.
+
+No credentials or demo account are needed. From a cold launch, onboarding shows One line from a finished book. and It comes back on that month and day. Tap Next. The next page shows Nail this line when the date returns. and Lift it if you put it up by mistake. Tap Next. The last page shows Lines stay on this device. and Close a book, pick one line, and it waits for its date. Tap Continue, or tap Skip on any page. Home shows Due, Bare, or Nailed with Nail this line and Lift this line. Open Shelf, tap Add a book, enter Title, Author, Pages, and Start page, then tap Add a book. Open a book under Reading, set Page, type a New line, tap Save line, optionally set Read again, then tap Close book. On Close book, with a line chosen, confirm File, then nail and This line returns on this date, then tap Close book. When home shows Due, tap Nail this line. To undo, tap Lift this line. Open Coming up to see Next, Later, and Nails. Open Settings for Show introduction, Contact, Export, and Delete all.
+
+Books and lines stay on this device. Contact in Settings opens the support page. Export shares a local copy through the system share sheet.
+
+Behaviour does not differ by region. Dates follow the device calendar.
+
+No licence or regulated-industry paperwork applies. This is a personal reading log, not a medical, financial, or gambling product.
+
+The app is a personal log only and gives no recommendations. It does not show health, medical, or product-health information.
