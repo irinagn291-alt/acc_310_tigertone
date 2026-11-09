@@ -65,7 +65,7 @@
 		2E190C20CF4790D3D7957076 /* StubArchive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StubArchive.swift; sourceTree = "<group>"; };
 		2EE28E221CB88E41EC311FC8 /* DayStamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayStamp.swift; sourceTree = "<group>"; };
 		2FA96F8D3E844B16E940DBA7 /* StubwellTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = StubwellTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3686A7F5290E4ECAE496C58F /* Stubwell.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Stubwell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3686A7F5290E4ECAE496C58F /* Stubwell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stubwell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42A38119BBDC5B31A6562741 /* DesignTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTokens.swift; sourceTree = "<group>"; };
 		4B468A932AC89BBB736FCFDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4C892FF35B9C2BD9F9C593C2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
@@ -488,7 +488,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Tigertone;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -502,7 +503,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.stubwell.board;
 				PRODUCT_NAME = Stubwell;
 				SDKROOT = iphoneos;
@@ -519,7 +520,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Tigertone;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -533,7 +534,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.stubwell.board;
 				PRODUCT_NAME = Stubwell;
 				SDKROOT = iphoneos;
