@@ -1,1 +1,3 @@
-Version 1.0. First release. Add books on Shelf, write lines while Reading, Close book to file one line for its date, Nail this line when Due, Lift this line if needed, and check Coming up. Settings includes Show introduction, Contact, Export, and Delete all.
+Version 1.1 keeps Tigertone polished and reliable.
+• Stability and performance improvements
+• Small refinements throughout the app
